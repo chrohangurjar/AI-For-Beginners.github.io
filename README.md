@@ -51,7 +51,7 @@ Easily deploy your Docsify documentation to **GitHub Pages**:
    ```
 3. Go to your repository's **Settings > Pages**, and set the source to `gh-pages`.
 
-Your documentation will be live at `https://<username>.github.io/<repository>`! 🎉
+Your documentation will be live at `https://chrohangurjar1/ai-for-beginners.github.io`! 🎉
 
 ## 👨‍💻 Contribute
 Feel free to contribute by:
