@@ -1,6 +1,6 @@
 ---
 
- ![AI for Beginners Logo](assets/images/logo.png)
+ ![AI for Beginners Logo](ai.webpfile)
 
 # AI for Beginners Documentation 🌟
 
