@@ -1,6 +1,6 @@
 ---
 
- ![AI for Beginners Logo](ai.webpfile)
+ ![AI for Beginners Logo](ai.webp)
 
 # AI for Beginners Documentation 🌟
 
